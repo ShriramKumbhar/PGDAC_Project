@@ -63,8 +63,6 @@ Compassly is designed with a focus on user satisfaction, offering a seamless and
 4. Ensure MongoDB is installed and running on your system.
 5. Open your IDE and run the Spring Boot backend to fully integrate the project.
 
-## 📝 License
+## 🤝 Let's Connect!
 
-This project is licensed under the [MIT License](LICENSE).
-
----
+I'm always open to feedback, collaboration, and new opportunities. Feel free to reach out if you have any questions or just want to chat about tech. Let's build together! 
